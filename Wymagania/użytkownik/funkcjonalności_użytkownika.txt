@@ -1,9 +1,10 @@
-- Zarządzanie grami
-- Zarządzanie znajomymi
-- Zarządzanie własnym kontem
-- Możliwość komunikowania się z innymi
+- Zarządzanie grami							//pack
+- Zarządzanie znajomymi						//pack
+- Zarządzanie własnym kontem				//pack
+- Możliwość komunikowania się z innymi		//jako package
+-Zarządzanie statystykami					//pack
 - Możliwość zalogowania się do systemu
 - Możliwość wylogowania się z systemu
 - Możliwość przeglądania widocznych informacji innych użytkowników
-- Możliwość tworzenia grup znajomych
+- Możliwość tworzenia grup znajomych							//jako zarządzanie grupami
 - Możliwość dodawania gier do ulubionych

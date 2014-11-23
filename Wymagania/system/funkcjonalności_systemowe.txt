@@ -1,4 +1,5 @@
--Tworzenie kont dla nowych użytkowników				//dodane
--Autoryzacja kont użytkowników						//rozwazane
+-Tworzenie kont dla nowych użytkowników				//to jest wymagnaie z punktu widzenia uzytkownika
+-Autoryzacja kont użytkowników						//nie ogarniam
 -Zapewnienie bezpiecznego połšczenia z bazš			//dodane
 -Możliwość sprawdzenia dostępności aktualizacji		//dodane
+-Automatyczne aktualizajce							//dodane
