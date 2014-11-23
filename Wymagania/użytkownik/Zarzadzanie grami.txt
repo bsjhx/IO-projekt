@@ -1,4 +1,6 @@
--Mo¿liwoœæ dodawania gier z listy
--Mo¿liwoœæ usuwania gier z listy
--Mo¿liwoœæ dodawania znajomych do serwera gry
--Mo¿liwoœæ usuwania znajomych z serwera gry
+- MoÅ¼liwoÅ›Ä‡ dodawania gier z listy
+- MoÅ¼liwoÅ›Ä‡ usuwania gier z listy
+- MoÅ¼liwoÅ›Ä‡ dodawania gier do ulubionych
+- MoÅ¼liwoÅ›Ä‡ usuwania gier z ulubionych
+- MoÅ¼liwoÅ›Ä‡ dodawania znajomych do serwera gry
+- MoÅ¼liwoÅ›Ä‡ usuwania znajomych z serwera gry
