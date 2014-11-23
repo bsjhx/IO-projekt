@@ -1,0 +1,57 @@
+Exporting package to 'F:\IO\GitHub\IO-projekt\EA - eksporty\Platforma spo³ecznoœciowa dla graczy.xml'
+Retrieving data for export: diagram elements
+Retrieving data for export: links
+Retrieving data for export: constraints
+Retrieving data for export: attribute tagged values
+Retrieving data for export: operation tagged values
+Retrieving data for export: operation parameter tagged values
+Retrieving data for export: connector tagged values
+Completed data retrieval
+Pre-processing export tree...
+Completed pre-processing
+Processing package: Platforma spo³ecznoœciowa dla graczy
+Processing package: Wymagania
+Processing package: W1 System
+Diagram: W1 System
+Element:0: W1.03 Zapewnienie bezpiecznego po³¹czenia z baz¹ danych i serwerami aplikacji
+Element:1: W1.04 Mo¿liwoœæ sprawdzenia dostêpnoœci aktualizacji
+Element:2: W1.05 Szybkie i stabilne po³¹czenie z serwerem
+
+Element:3: W1.06 Mo¿liwoœæ automatycznej aktualizacji aplikacji
+Element:4: W1 System
+Processing package: W2 U¿ytkownik
+Diagram: W2 U¿ytkownik
+Element:5: W2.07 Logowanie siê do systemu
+Element:6: W2.08 Wylogowanie z systemu
+Element:7: W2.09 Tworzenie nowego konta
+Element:8: W2 U¿ytkownik
+Processing package: W2.01 Zarz¹dzanie w³asn¹ list¹ gier
+Diagram: W2.01 Zarz¹dzanie w³asn¹ list¹ gier
+Element:9: W2.01.01 Autowykrywanie gier zainstalowanych na komputerze
+Element:10: W2.01.02 Dodanie gry do listy gier
+Element:11: W2.01.03 Dodanie gry do listy ulubionych gier
+Element:12: W2.01.04 Usuniêcie gry z ulubionych
+
+Element:13: W2.01.05 Usuniêcie gry z listy gier
+Element:14: W2.01 Zarz¹dzanie w³asn¹ list¹ gier
+Processing package: W2.02 Zarz¹dzanie znajomymi
+Diagram: W2.02 Zarz¹dzanie znajomymi
+Element:15: W2.02.01 Dodawanie znajomych
+Element:16: W2.02.02 Usuwanie znajomych
+Element:17: W2.02.03 Zaproszenie znajomego do gry w trybie multiplayer
+Element:18: W2.02.04 Do³¹czenie do znajomego w grze (w trybie multiplayer)
+Element:19: W2.02.05 Zaproszenie znajomego do grupy
+Element:20: W2.02.06 Sprawdzenie statystyk znajomego
+Element:21: W2.02 Zarz¹dzanie znajomymi
+Processing package: W2.03 Zarz¹dzanie kontem
+Diagram: W2.03 Zarz¹dzanie kontem
+Processing package: W2.04 Komunikacja z innymi
+Diagram: W2.04 Komunikacja z innymi
+Processing package: W2.05 Zarz¹dzanie statystykami
+Diagram: W2.05 Zarz¹dzanie statystykami
+Processing package: W2.06 Zarz¹dzanie grupami u¿ytkowników
+Diagram: W2.06 Zarz¹dzanie grupami u¿ytkowników
+Adding State-Tables
+Sequencing Interaction Diagrams
+Formatting output XML...please wait
+XMI Document Export Complete!

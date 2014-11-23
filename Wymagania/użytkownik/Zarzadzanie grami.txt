@@ -2,5 +2,5 @@
 - Możliwość usuwania gier z listy
 - Możliwość dodawania gier do ulubionych
 - Możliwość usuwania gier z ulubionych
-- Możliwość dodawania znajomych do serwera gry
-- Możliwość usuwania znajomych z serwera gry
+- Możliwość dodawania znajomych do serwera gry		//co? 
+- Możliwość usuwania znajomych z serwera gry		//co?
