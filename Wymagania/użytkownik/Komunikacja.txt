@@ -1,0 +1,6 @@
+- Możliwość utworzenia chatu z innym użytkownikiem
+- Możliwość utworzenia chatu z całą grupą użytkowników
+- Możliwość utworzenia połączenia głosowego z innym użytkownikiem
+- Możliwość utworzenia połączenia głosowego z całą grupą
+- Możliwość blokowania połączenia z innym użytkownikiem
+- Możliwość przesyłania załączników innym użytkownikom

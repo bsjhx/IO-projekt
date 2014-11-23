@@ -1,3 +1,4 @@
--Tworzenie kont dla nowych użytkowników
--Autoryzacja kont użytkowników
--Zapewnienie bezpiecznego połšczenia z bazš
+-Tworzenie kont dla nowych użytkowników				//dodane
+-Autoryzacja kont użytkowników						//rozwazane
+-Zapewnienie bezpiecznego połšczenia z bazš			//dodane
+-Możliwość sprawdzenia dostępności aktualizacji		//dodane
