@@ -1,5 +1,6 @@
--Mo¿liwoœæ utworzenia chatu z innym u¿ytkownikiem
--Mo¿liwoœæ utworzenia chatu z ca³¹ grup¹ u¿ytkowników
--Mo¿liwoœæ utworzenia po³¹czenia g³osowego z innym u¿ytkownikiem
--Mo¿liwoœæ utworzenia po³¹czenia g³osowego z ca³¹ grup¹
--Mo¿liwoœæ blokowania po³¹czenia z innym u¿ytkownikiem
+- MoÅ¼liwoÅ›Ä‡ utworzenia chatu z innym uÅ¼ytkownikiem
+- MoÅ¼liwoÅ›Ä‡ utworzenia chatu z caÅ‚Ä… grupÄ… uÅ¼ytkownikÃ³w
+- MoÅ¼liwoÅ›Ä‡ utworzenia poÅ‚Ä…czenia gÅ‚osowego z innym uÅ¼ytkownikiem
+- MoÅ¼liwoÅ›Ä‡ utworzenia poÅ‚Ä…czenia gÅ‚osowego z caÅ‚Ä… grupÄ…
+- MoÅ¼liwoÅ›Ä‡ blokowania poÅ‚Ä…czenia z innym uÅ¼ytkownikiem
+- MoÅ¼liwoÅ›Ä‡ przesyÅ‚ania zaÅ‚Ä…cznikÃ³w innym uÅ¼ytkownikom
