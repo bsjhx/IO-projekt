@@ -1,4 +1,5 @@
--Dodawania nowego u¿ytkownika
--Usuwanie u¿ytkownika
--Zarz¹dzanie baz¹ danych
--Mo¿liwoœæ "banowania" u¿ytkowników
+-Dodawania nowego uÅ¼ytkownika
+-Usuwanie uÅ¼ytkownika
+-ZarzÄ…dzanie bazÄ… danych
+-MoÅ¼liwoÅ›Ä‡ "banowania" uÅ¼ytkownikÃ³w
+-Przydzielanie uprawnieÅ„ innym uÅ¼ytkownikom
