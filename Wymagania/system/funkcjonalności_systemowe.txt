@@ -1,2 +1,3 @@
--Tworzenie kont dla nowych uøytkownikÛw
--Zapewnienie bezpiecznego po≥πczenia z bazπ
+-Tworzenie kont dla nowych u≈ºytkownik√≥w
+-Autoryzacja kont u≈ºytkownik√≥w
+-Zapewnienie bezpiecznego po≈Ç≈°czenia z baz≈°
