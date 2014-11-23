@@ -1,8 +1,8 @@
 - Uzupełnianie danych osobowych
 - Ustawienie awatara
-- Usawienie metod kontaktu (gg, skype itd.)
+- Usawienie metod kontaktu (gg, skype itd.)			//uznaje jako dane osobowe
 - Ustawienie płci (mężczyzna lub kobieta)			//dane osobowe to sa
-- Ustawienie strefy czasowej
+- Ustawienie strefy czasowej						//jak wyzej
 - Zmiana adresu e-mail
 - Zmiana hasła
 - Ustawienie opcji powiadomień

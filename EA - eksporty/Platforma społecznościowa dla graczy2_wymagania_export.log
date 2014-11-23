@@ -1,0 +1,96 @@
+Exporting package to 'F:\IO\GitHub\IO-projekt\EA - eksporty\Platforma spo³ecznoœciowa dla graczy2_wymagania.xml'
+Retrieving data for export: diagram elements
+Retrieving data for export: links
+Retrieving data for export: constraints
+Retrieving data for export: attribute tagged values
+Retrieving data for export: operation tagged values
+Retrieving data for export: operation parameter tagged values
+Retrieving data for export: connector tagged values
+Completed data retrieval
+Pre-processing export tree...
+Completed pre-processing
+Processing package: Platforma spo³ecznoœciowa dla graczy
+Processing package: Wymagania
+Diagram: Wymagania
+Element:0: W1 System
+Element:1: W2 U¿ytkownik
+Element:2: W3 Administrator
+Element:3: Wymagania
+Processing package: W1 System
+Diagram: W1 System
+Element:4: W1.03 Zapewnienie bezpiecznego po³¹czenia z baz¹ danych i serwerami aplikacji
+Element:5: W1.04 Mo¿liwoœæ sprawdzenia dostêpnoœci aktualizacji
+Element:6: W1.05 Szybkie i stabilne po³¹czenie z serwerem
+
+Element:7: W1.06 Mo¿liwoœæ automatycznej aktualizacji aplikacji
+Element:8: W1 System
+Processing package: W2 U¿ytkownik
+Diagram: W2 U¿ytkownik
+Element:9: W2.07 Logowanie siê do systemu
+Element:10: W2.08 Wylogowanie z systemu
+Element:11: W2.09 Tworzenie nowego konta
+Element:12: W2 U¿ytkownik
+Processing package: W2.01 Zarz¹dzanie w³asn¹ list¹ gier
+Diagram: W2.01 Zarz¹dzanie w³asn¹ list¹ gier
+Element:13: W2.01.01 Autowykrywanie gier zainstalowanych na komputerze
+Element:14: W2.01.02 Dodanie gry do listy gier
+Element:15: W2.01.03 Dodanie gry do listy ulubionych gier
+Element:16: W2.01.04 Usuniêcie gry z ulubionych
+
+Element:17: W2.01.05 Usuniêcie gry z listy gier
+Element:18: W2.01 Zarz¹dzanie w³asn¹ list¹ gier
+Processing package: W2.02 Zarz¹dzanie znajomymi
+Diagram: W2.02 Zarz¹dzanie znajomymi
+Element:19: W2.02.01 Dodawanie znajomych
+Element:20: W2.02.02 Usuwanie znajomych
+Element:21: W2.02.03 Zaproszenie znajomego do gry w trybie multiplayer
+Element:22: W2.02.04 Do³¹czenie do znajomego w grze (w trybie multiplayer)
+Element:23: W2.02.05 Zaproszenie znajomego do grupy
+Element:24: W2.02.06 Sprawdzenie statystyk znajomego
+Element:25: W2.02 Zarz¹dzanie znajomymi
+Processing package: W2.03 Zarz¹dzanie kontem
+Diagram: W2.03 Zarz¹dzanie kontem
+Element:26: W2.03.01 Uzupe³nienie danych osobowych
+Element:27: W2.03.02 Ustawienie awatara
+Element:28: W2.03.03 Zmiana adresu email
+Element:29: W2.03.04 Zmiana has³a
+Element:30: W2.03.05 Ustawienie opcji powiadomieñ
+Element:31: W2.03.06 Usuniêcie konta
+Element:32: W2.03 Zarz¹dzanie kontem
+Processing package: W2.04 Komunikacja z innymi
+Diagram: W2.04 Komunikacja z innymi
+Element:33: W2.04.01 Mo¿liwoœæ utworzenia czatu ze znajomym
+Element:34: W2.04.02 Mo¿liwoœæ utworzenia czatu z grup¹ u¿ytkowników
+Element:35: W2.04.03 Mo¿liwoœæ utworzenia po³¹czenia g³osowego ze znajomym
+Element:36: W2.04.04 Mo¿liwoœæ utworzenia po³¹czenia g³osowego z grup¹ u¿ytkowników
+Element:37: W2.04.05 Mo¿liwoœæ blokowania rozmów/po³¹czeñ z innym u¿ytkownikiem
+Element:38: W2.04.06 Mo¿liwoœæ przes³ania za³¹cznika podczas rozmowy
+Element:39: W2.04 Komunikacja z innymi
+Processing package: W2.05 Zarz¹dzanie statystykami
+Diagram: W2.05 Zarz¹dzanie statystykami
+Element:40: W2.05.01 Obejrzenie statystyk innego u¿ytkownika lub w³asnych
+Element:41: W2.05.02 Edycja widocznoœci w³asnych statystyk dla innych u¿ytkowników
+Element:42: W2.05.03 Liczenie czasu spêdzonego w poszczególnych grach
+Element:43: W2.05.04 Liczenie czasu spêdzonego graj¹c z danym znajomym
+Element:44: W2.05 Zarz¹dzanie statystykami
+Processing package: W2.06 Zarz¹dzanie grupami u¿ytkowników
+Diagram: W2.06 Zarz¹dzanie grupami u¿ytkowników
+Element:45: W2.06.01 Tworzenie grup u¿ytkowników
+Element:46: W2.06.02 Usuwanie grup u¿ytkowników
+Element:47: W2.06.03 Zapraszanie znajomych do grupy
+Element:48: W2.06.04 Edycja uprawnieñ u¿ytkowników w obrêbie grupy
+Element:49: W2.06.05 Usuwanie ludzi z grupy
+Element:50: W2.06.06 Edycja ustawieñ grupy
+Element:51: W2.06 Zarz¹dzanie grupami u¿ytkowników
+Processing package: W3 Administrator
+Diagram: W3 Administrator
+Element:52: W3.01 Utworzenie nowego u¿ytkownika
+Element:53: W3.02 Usuwanie u¿ytkowników
+Element:54: W3.03 "Banowanie" u¿ytkowników
+Element:55: W3.04 Zarz¹dzanie baz¹ danych
+Element:56: W3.05 Przydzielanie uprawnieñ u¿ytkownikom
+Element:57: W3 Administrator
+Adding State-Tables
+Sequencing Interaction Diagrams
+Formatting output XML...please wait
+XMI Document Export Complete!
