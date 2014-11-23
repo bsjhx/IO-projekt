@@ -1,2 +1,8 @@
--Uzupe�nianie danych osobowych
--Ustawienie awatara
+- Uzupełnianie danych osobowych
+- Ustawienie awatara
+- Usawienie metod kontaktu (gg, skype itd.)
+- Ustawienie płci (mężczyzna lub kobieta)
+- Ustawienie strefy czasowej
+- Zmiana adresu e-mail
+- Zmiana hasła
+- Ustawienie opcji powiadomień
