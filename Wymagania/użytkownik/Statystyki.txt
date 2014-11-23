@@ -1,0 +1,4 @@
+-Mo¿liwoœæ podgl¹dniêcia statystyk przez u¿ytkownika
+-Mo¿liwoœæ ustawienia widocznoœci statystyk dla innych u¿ytkowników
+-Liczenie iloœci godzin spêdzonych w konkretnych grach
+-Liczenie iloœci godzin spêdzonych z danym u¿ytkownikiem

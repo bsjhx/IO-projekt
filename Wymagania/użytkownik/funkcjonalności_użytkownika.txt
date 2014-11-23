@@ -1,0 +1,7 @@
+-Zarz¹dzanie grami
+-Zarz¹dzanie znajomymi
+-Zarz¹dzanie w³asnym kontem
+-Mo¿liwoœæ komunikowania siê z innymi
+-Mo¿liwoœæ zalogowania siê do systemu
+-Mo¿liwoœæ przegl¹dania widocznych informacji innych u¿ytkowników
+-Mo¿liwoœæ tworzenia grup znajomych

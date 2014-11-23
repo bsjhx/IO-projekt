@@ -1,0 +1,2 @@
+-Tworzenie kont dla nowych u¿ytkowników
+-Zapewnienie bezpiecznego po³¹czenia z baz¹

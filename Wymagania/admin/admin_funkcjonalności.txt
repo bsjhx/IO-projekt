@@ -1,0 +1,4 @@
+-Dodawania nowego u¿ytkownika
+-Usuwanie u¿ytkownika
+-Zarz¹dzanie baz¹ danych
+-Mo¿liwoœæ "banowania" u¿ytkowników

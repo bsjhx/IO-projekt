@@ -1,0 +1,4 @@
+-Mo퓄iwo쒏 dodawania gier z listy
+-Mo퓄iwo쒏 usuwania gier z listy
+-Mo퓄iwo쒏 dodawania znajomych do serwera gry
+-Mo퓄iwo쒏 usuwania znajomych z serwera gry
