@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1"
+	xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="PlatformaGraczy">
+		<class>pl.polsl.platforma.model.Gatunki</class>
+		<class>pl.polsl.platforma.model.Grupy</class>
+		<class>pl.polsl.platforma.model.Gry</class>
+		<class>pl.polsl.platforma.model.Pegi</class>
+		<class>pl.polsl.platforma.model.Panstwa</class>
+		<class>pl.polsl.platforma.model.PosiadaczeGry</class>
+		<class>pl.polsl.platforma.model.SesjeGry</class>
+		<class>pl.polsl.platforma.model.SposobyPlatnosci</class>
+		<class>pl.polsl.platforma.model.Statusy</class>
+		<class>pl.polsl.platforma.model.StatystykiGracza</class>
+		<class>pl.polsl.platforma.model.StatystykiGry</class>
+		<class>pl.polsl.platforma.model.SzczegolyGrupy</class>
+		<class>pl.polsl.platforma.model.Transakcje</class>
+		<class>pl.polsl.platforma.model.Uzytkownicy</class>
+		<class>pl.polsl.platforma.model.Waluty</class>
+		<class>pl.polsl.platforma.model.Wydawcy</class>
+		<class>pl.polsl.platforma.model.Znajomi</class>
+		<properties>
+			<property name="javax.persistence.jdbc.url" value="jdbc:mysql://sql.spesc.nazwa.pl:3307/spesc" />
+			<property name="javax.persistence.jdbc.user" value="spesc" />
+			<property name="javax.persistence.jdbc.password" value="Platforma11" />
+			<property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver" />
+		</properties>
+	</persistence-unit>
+</persistence>
